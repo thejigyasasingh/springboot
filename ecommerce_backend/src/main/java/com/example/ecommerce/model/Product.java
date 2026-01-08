@@ -78,7 +78,6 @@ public class Product {
 
     public void setImageUrl(String imageUrl) {
         this.imageUrl = imageUrl;
-        // new backend sysytem for this for image url and its changes
     }
 }
 
